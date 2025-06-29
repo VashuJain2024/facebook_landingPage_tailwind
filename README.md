@@ -1,13 +1,3 @@
-## ![Shield: Stars](https://img.shields.io/github/stars/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: Forks](https://img.shields.io/github/forks/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: Issues](https://img.shields.io/github/issues/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: License](https://img.shields.io/github/license/VashuJain2024/facebook_landingPage_tailwind?style=flat-square)
-
-![Language badges](https://img.shields.io/badge/HTML-86.7%25-lightgrey?style=flat-square) ![Language badges](https://img.shields.io/badge/JavaScript-10.5%25-yellow?style=flat-square) ![Language badges](https://img.shields.io/badge/CSS-2.9%25-blue?style=flat-square)
-
----
-
-## ![Shield: Build](https://img.shields.io/github/actions/workflow/status/VashuJain2024/facebook_landingPage_tailwind/main.yml?style=flat-square) ![Shield: Version](https://img.shields.io/github/v/release/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: Downloads](https://img.shields.io/github/downloads/VashuJain2024/facebook_landingPage_tailwind/total?style=flat-square)
-
----
-
 ## 🎯 PROJECT OVERVIEW
 
 Welcome to the **Facebook Landing Page with Tailwind**, a cutting-edge project designed to showcase modern web design practices and professional aesthetics.
