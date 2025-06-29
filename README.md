@@ -81,27 +81,6 @@ npm start
 
 ---
 
-## 📖 DETAILED DOCUMENTATION
-
-### Installation Guide
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/VashuJain2024/facebook_landingPage_tailwind.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```sh
-   cd facebook_landingPage_tailwind
-   ```
-
-3. **Install Dependencies:**
-   ```sh
-   npm install
-   ```
- 
----
-
 ## 🤝 CONTRIBUTING
 
 ### Contribution Guidelines
@@ -112,16 +91,14 @@ We welcome contributions! Please follow these steps:
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
+  
+---
 
-### Development Setup
-
-```sh
-npm run dev
-```
- 
 ### Acknowledgments
 
 Special thanks to the Tailwind CSS community and the open-source contributors.
+
+---
 
 ### Contact Information
 
