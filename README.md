@@ -1,11 +1,3 @@
-<div align="center">
-
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D7DFF&background=000000&random=false&width=800&lines=üöÄ+Facebook+Landing+Page+with+Tailwind;Modern+%26+Professional+Design;Enhanced+with+Animated+Elements)
-
-</div>
-
----
-
 ## ![Shield: Stars](https://img.shields.io/github/stars/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: Forks](https://img.shields.io/github/forks/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: Issues](https://img.shields.io/github/issues/VashuJain2024/facebook_landingPage_tailwind?style=flat-square) ![Shield: License](https://img.shields.io/github/license/VashuJain2024/facebook_landingPage_tailwind?style=flat-square)
 
 ![Language badges](https://img.shields.io/badge/HTML-86.7%25-lightgrey?style=flat-square) ![Language badges](https://img.shields.io/badge/JavaScript-10.5%25-yellow?style=flat-square) ![Language badges](https://img.shields.io/badge/CSS-2.9%25-blue?style=flat-square)
